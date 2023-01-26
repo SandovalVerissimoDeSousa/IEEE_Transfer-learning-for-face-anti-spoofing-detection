@@ -34,3 +34,7 @@ We also included notebooks used for the Preprocessing, Experimentation:
 * The Preprocessing notebook details the handling of the training data and the preprocessing techniques used.
 
 * The Experimentation notebook details the training process and the experiments made throughout this paper.
+
+## Python Scripts
+
+We also provided our pythons scripts used for processing the dataset frames, data loading, face alignment and face_extraction.
