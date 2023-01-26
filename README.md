@@ -37,4 +37,4 @@ We also included notebooks used for the Preprocessing, Experimentation:
 
 ## Python Scripts
 
-We also provided our pythons scripts used for processing the dataset frames, data loading, face alignment and face_extraction.
+We also provided our pythons scripts used for processing the dataset frames, data loading, face alignment and face extraction.
